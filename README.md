@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Samuka
 - I like to create things
-- I know some python, very little C#, and looking to learn Js
-- I don't know how can you reach me, I will think in that later
+- I know some python, Java, C, very little C#, and looking to learn Js
+- I don't know how can you reach me, I will think about that later
